@@ -1,6 +1,6 @@
 """
-live_transcribe.py - ENHANCED
-Real-time call transcription with production-grade error handling
+live_transcribe.py 
+Real-time call transcription with  error handling
 """
 
 import os
