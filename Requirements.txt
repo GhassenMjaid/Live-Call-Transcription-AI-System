@@ -1,4 +1,9 @@
-   Core dependencies for live transcription
+
+
+
+
+
+Core dependencies for live transcription
 openai-whisper==20231117
 sounddevice==0.4.6
 soundfile==0.12.1
